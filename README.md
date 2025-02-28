@@ -49,7 +49,3 @@ For any issues or assistance, please feel free to reach out to the author via Gi
 ## Contact Links:
 - Author's GitHub Profile: [KaloudasDev](https://github.com/KaloudasDev)
 - Author's Email: [kaloudasdev@gmail.com](mailto:kaloudasdev@example.com)
-
----
-
-Αυτό το `README.md` παρέχει μια καθαρή και επαγγελματική περιγραφή του project, βήματα εγκατάστασης, και επαφή για υποστήριξη.
