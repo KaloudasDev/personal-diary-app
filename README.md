@@ -41,11 +41,6 @@ To set up the Calendar Website on your own local machine, follow these steps:
 6. **Access the Website:**  
    If deployed, you can access your website at the provided domain or local address.
 
----
-
-## 📞 Support:
-For any issues or assistance, please feel free to reach out to the author via GitHub or email.
-
 ## 🔗 Contact Links:
 - Author's GitHub Profile: [KaloudasDev](https://github.com/KaloudasDev)
 - Author's Email: [kaloudasdev@gmail.com](mailto:kaloudasdev@example.com)
