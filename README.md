@@ -5,14 +5,13 @@
 # 💻 Calendar Website
 
 **Description:**  
-The Calendar Website is a sophisticated, user-friendly web application designed to manage and organize personal events. It features a sleek interface with modern functionalities, offering users the ability to add, edit, and view their events with ease. Built to provide a seamless experience, this website is perfect for personal or business event management.
+- The Calendar Website is a sophisticated, user-friendly web application designed to manage and organize personal events. It features a sleek interface with modern functionalities, offering users the ability to add, edit, and view their events with ease. Built to provide a seamless experience, this website is perfect for personal or business event management.
 
-**Author:** KaloudasDev  
 **Credits:**  
-This project was developed by Kaloudas. Special thanks to all contributors and the open-source community for their valuable input and support.
+- This project was developed by Kaloudas. Special thanks to all contributors and the open-source community for their valuable input and support.
 
 **License:**  
-This project is open-source and available under the MIT License.
+- This project is open-source and available under the MIT License.
 
 ---
 
