@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Προσωπικό Ημερολόγιο</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Προσωπικό Ημερολόγιο</h1>
+        </header>
+        <div id="new-entry">
+            <textarea id="entry-text" placeholder="Καταγράψτε τη σκέψη ή τη δραστηριότητά σας..."></textarea>
+            <input type="text" id="entry-tags" placeholder="Ετικέτες (χωρίστε με κόμμα)">
+            <button id="add-entry">Προσθήκη</button>
+        </div>
+        <div id="entries">
+            <h2>Καταγραφές</h2>
+            <div id="entry-list"></div>
+        </div>
+        <footer>
+            <p>Made by Kaloudas | 2024 - 2025 ©</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

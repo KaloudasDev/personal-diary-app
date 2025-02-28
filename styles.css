@@ -1,0 +1,113 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #2c3e50;  /* Διατηρούμε το χρώμα φόντου #2c3e50 */
+    color: white;  /* Κείμενο σε λευκό για αντίθεση */
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: white;  /* Λευκό φόντο για το container */
+    border-radius: 12px;  /* Αρκετά στρογγυλεμένες γωνίες */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;  /* Κεντράρισμα του τίτλου */
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    font-weight: bold;
+    margin: 0;  /* Αφαίρεση περιθωρίων για ακριβές κεντράρισμα */
+}
+
+
+#new-entry {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 120px;  /* Αυξήσαμε το ύψος για καλύτερη χρήση */
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 12px;
+    resize: none;  /* Απενεργοποιούμε την αλλαγή μεγέθους */
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+input {
+    width: calc(100% - 22px);
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+button {
+    padding: 12px 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #2c3e50;  /* Διατηρούμε το χρώμα του κουμπιού */
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 16px;
+    width: 100%;  /* Κάνουμε τα κουμπιά να γεμίζουν όλο το πλάτος */
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;  /* Λευκό χρώμα κατά την επαφή */
+    color: #2c3e50;
+    border: 1px solid #2c3e50;  /* Προσθήκη περιγράμματος */
+}
+
+#entry-list {
+    margin-top: 20px;
+}
+
+.entry {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    color: #000;  /* Κείμενο στις σημειώσεις σε μαύρο */
+    font-size: 14px;
+}
+
+.entry .tags {
+    font-size: 0.9em;
+    color: #888;
+    margin-top: 8px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #2c3e50;  /* Χρώμα footer σε #2c3e50 */
+    font-size: 14px;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 8px rgba(0, 95, 181, 0.5); /* Εφέ focus με σκίαση */
+}
