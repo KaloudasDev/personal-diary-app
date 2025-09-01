@@ -36,5 +36,5 @@ To set up the Calendar Website on your own local machine, follow these steps:
 
 ## Contact Links:
 - Author's Discord Profile: [Kaloudas](https://discordlookup.com/user/1069279857072160921)
-- NobleCraft Studios: [NobleCraft](https://discord.gg/noblecraft)
 - Author's Email: [kaloudasdev@gmail.com](mailto:kaloudasdev@example.com)
+
