@@ -1,4 +1,4 @@
-# 💻 Calendar Website
+## Calendar Website
 
 **Description:**  
 - The Calendar Website is a sophisticated, user-friendly web application designed to manage and organize personal events. It features a sleek interface with modern functionalities, offering users the ability to add, edit, and view their events with ease. Built to provide a seamless experience, this website is perfect for personal or business event management.
@@ -9,9 +9,7 @@
 **License:**  
 - This project is open-source and available under the MIT License.
 
----
-
-## ⚙ Setup Instructions:
+## Setup Instructions:
 
 To set up the Calendar Website on your own local machine, follow these steps:
 
@@ -36,9 +34,7 @@ To set up the Calendar Website on your own local machine, follow these steps:
 6. **Access the Website:**  
    If deployed, you can access your website at the provided domain or local address.
 
----
-
-## 🔗 Contact Links:
+## Contact Links:
 - Author's Discord Profile: [Kaloudas](https://discordlookup.com/user/1069279857072160921)
 - NobleCraft Studios: [NobleCraft](https://discord.gg/noblecraft)
 - Author's Email: [kaloudasdev@gmail.com](mailto:kaloudasdev@example.com)
