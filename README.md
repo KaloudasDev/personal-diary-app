@@ -1,7 +1,3 @@
-Ακολουθεί μια επαγγελματική και σοβαρή περιγραφή για το `README.md` του website που ανέφερες:
-
----
-
 # 💻 Calendar Website
 
 **Description:**  
